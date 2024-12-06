@@ -12,4 +12,4 @@ mySprite.say("Ahhh stop looking at me charels i know you want to be like me! nev
 
 
 print("\n\nWhen you have found the CARDINAL, click here, then use CTRL C to end the program\n\n")
-MySpite2 = codesters . sprite ( "baseball ",0,0)
+MySpite2 = codesters.Sprite ( "baseball ",0,0)
