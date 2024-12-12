@@ -6,6 +6,7 @@ stage = StageClass()
 ###############################################
 
 
+
 stage.set_background("fall")
 mySprite = codesters.Sprite("cardinal")
 mySprite.say("Ahhh stop looking at me charels i know you want to be like me! never mess with me agian!")
